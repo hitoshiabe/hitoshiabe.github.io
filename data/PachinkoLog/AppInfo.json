@@ -1,6 +1,6 @@
 {
     "available": {
-        "minAppVersion": "1.0.1",
+        "minAppVersion": "1.0.2",
         "minOSVersion": "16.0.0"
     }
 }
